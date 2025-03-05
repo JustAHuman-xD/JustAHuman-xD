@@ -4,3 +4,5 @@
 - ☕️ Primarily work in `Java`
 - 📚 Experience with: `HTML`, `CSS`, `JS`, `Python`, `Php`, `Lua`, `Kotlin`, `C++`, `C#`, `Bash`, `TypeScript`
 - 🏳️‍🌈 Aro/Ace (Aromantic/Asexual)
+
+[![JustAHuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAHuman-xD)](https://github.com/JustAHuman-xD/github-readme-stats)
