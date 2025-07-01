@@ -1,8 +1,8 @@
-- 🎓 Computer Science Major in a U.S. Highschool
-- 📝 I go by `JustAHuman` but most call me `Justin`
-- 🎮 I play & create mods, plugins, datapacks, and resourcepacks for Minecraft Java Edition (Bedrock = Bad)
+- 🎓 Computer Science Major Freshman at University
+- 📝 I go by `JustAHuman` but most call me `Justin` (Just-a-human => Just-i-n)
+- 🎮 I play & create mods, plugins, datapacks, and resourcepacks for Minecraft (primarily Java Edition)
 - ☕️ Primarily work in `Java`
 - 📚 Experience with: `HTML`, `CSS`, `JS`, `Python`, `Php`, `Lua`, `Kotlin`, `C++`, `C#`, `Bash`, `TypeScript`
-- 🏳️‍🌈 Aro/Ace (Aromantic/Asexual)
+- 🏳️‍🌈 Arospec/Ace (Aromantic-Spectrum/Asexual)
 
 [![JustAHuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAHuman-xD&theme=tokyonight&show_icons=true)](https://github.com/JustAHuman-xD/github-readme-stats)
