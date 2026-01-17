@@ -5,4 +5,4 @@
 - 📚 Experience with: `HTML`, `CSS`, `JS`, `Python`, `Php`, `Lua`, `Kotlin`, `C++`, `C#`, `Bash`, `TypeScript`
 - 🏳️‍🌈 Arospec/Ace (Aromantic-Spectrum/Asexual)
 
-[![JustAHuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustAHuman-xD&theme=tokyonight&show_icons=true)](https://github.com/JustAHuman-xD/github-readme-stats)
+[![JustAHuman's GitHub stats](./profile/stats.svg)](https://github.com/JustAHuman-xD/github-readme-stats)
